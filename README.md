@@ -62,12 +62,12 @@ Foram organizadas as seguintes dimensões:
    - Recência
   
 2. Produto
-  - Qtde-Vinhos
-  - Qtde-Frutas
-  - Qtde-Carnes
-  - Qtde-Peixes
-  - Qtde-Doces
-  - Qtde-Premium
+   - Qtde-Vinhos
+   - Qtde-Frutas
+   - Qtde-Carnes
+   - Qtde-Peixes
+   - Qtde-Doces
+   - Qtde-Premium
 
 3. Comportamento de Compra
    - Qtde-Compras
